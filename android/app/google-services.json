@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001019857952",
+    "firebase_url": "https://flutee-b1db9.firebaseio.com",
+    "project_id": "flutee-b1db9",
+    "storage_bucket": "flutee-b1db9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001019857952:android:22e5ab13cd4c6a076d7045",
+        "android_client_info": {
+          "package_name": "com.example.flutee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001019857952-79414nemcqcal7b4jaql9db076v92u5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs_H6JeK2vZNEbvBEfaa7IzdpkoFAbYNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001019857952-79414nemcqcal7b4jaql9db076v92u5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
